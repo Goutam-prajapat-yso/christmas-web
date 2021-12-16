@@ -721,7 +721,8 @@ body {
   font-size: 1.5rem;
 }
 
-.message form input {
+.message form input,
+.message form textarea{
   width: 16rem;
 }
 
@@ -759,7 +760,7 @@ body {
     flex-direction: column;
     background: var(--white_color);
     position: relative;
-    padding: 1rem 1rem;
+    padding: 1rem .7rem;
     transform: unset;
     margin: 2rem 1.5rem;
 
