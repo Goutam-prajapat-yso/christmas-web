@@ -1015,7 +1015,7 @@ body {
   position: relative;
   margin-right: 50%;
   color: var(--white_color);
-  padding: .8rem .1rem;
+  padding: .8rem .2rem;
 }
 .footer .credit{
   border-top: solid;
