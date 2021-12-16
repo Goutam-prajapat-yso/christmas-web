@@ -759,7 +759,7 @@ body {
     flex-direction: column;
     background: var(--white_color);
     position: relative;
-    padding: 1rem 2rem;
+    padding: 1rem 1rem;
     transform: unset;
     margin: 2rem 1.5rem;
 
